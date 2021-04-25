@@ -1,0 +1,7 @@
+export const ADD_TASK = 'ADD_TASK'
+export const DELETE_TASK = 'DELETE_TASK'
+export const SEARCH_TASK = 'SEARCH_TASK'
+export const EMPTY_TASKS = 'EMPTY_TASKS'
+export const LOADING_TASKS = 'LOADING_TASKS'
+export const LOADED_TASKS = 'LOADED_TASKS'
+export const ENDPOINT_ERROR = 'ENDPOINT_ERROR'
